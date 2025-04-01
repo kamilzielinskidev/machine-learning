@@ -1,4 +1,5 @@
 What I can do:
+
 - I know what tensor is
 - I can create a tensor, multidimensional tensor
   - with seed
@@ -16,4 +17,6 @@ What I can do:
     - What gradient descent is - in progress
     - What backpropagation is - in progress
     - What inference_mode does and how to use it
-  - Create linear regression model - in progress
+  - Create linear regression model
+  - Create neural network
+    - Loop, forward propagation, calculate loss, back propagation, optimize parameters
