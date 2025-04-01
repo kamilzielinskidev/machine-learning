@@ -1,0 +1,19 @@
+What I can do:
+- I know what tensor is
+- I can create a tensor, multidimensional tensor
+  - with seed
+- I can grab basic information about a tensor
+  - Shape, size, number of dimensions, data type
+  - Min, max, mean, std
+- I can manipulate a tensor
+  - Change data type
+  - Basic mathematical operations, matrix multiplication
+  - Transpose, reshape
+  - Moving between CPU and GPU
+- I can create basic neural network
+  - Split data into train and test
+  - I know theory
+    - What gradient descent is - in progress
+    - What backpropagation is - in progress
+    - What inference_mode does and how to use it
+  - Create linear regression model - in progress
