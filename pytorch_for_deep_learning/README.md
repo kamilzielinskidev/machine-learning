@@ -1,7 +1,7 @@
 What I can do:
 
 - Math
-  - Calculus - In progress
+  - Calculus - In progress ⌛
 - Machine Learning with PyTorch
   - I know what tensor is
   - I can create a tensor, multidimensional tensor
@@ -24,3 +24,4 @@ What I can do:
     - Create neural network
       - Loop, forward propagation, calculate loss, back propagation, optimize parameters
       - Save and load model
+    - Create multi layer neural network (both custom model and nn.Sequential)
