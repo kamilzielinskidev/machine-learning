@@ -24,4 +24,5 @@ What I can do:
     - Create neural network
       - Loop, forward propagation, calculate loss, back propagation, optimize parameters
       - Save and load model
-    - Create multi layer neural network (both custom model and nn.Sequential)
+    - Create multi layer linear neural network (both custom model and using nn.Sequential)
+      - I know what activation function is and how to use it
