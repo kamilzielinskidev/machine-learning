@@ -20,9 +20,10 @@ What I can do:
       - What gradient descent is - in progress
       - What backpropagation is - in progress
       - What inference_mode does and how to use it
-    - Create linear regression model
     - Create neural network
       - Loop, forward propagation, calculate loss, back propagation, optimize parameters
       - Save and load model
     - Create multi layer linear neural network (both custom model and using nn.Sequential)
       - I know what activation function is and how to use it
+    - I can create binary classification model
+    - I can create multiclass classification model - in progress ⌛
