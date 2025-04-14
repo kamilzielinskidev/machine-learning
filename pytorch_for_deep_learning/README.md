@@ -17,8 +17,8 @@ What I can do:
   - I can create basic neural network
     - Split data into train and test
     - I know theory
-      - What gradient descent is - in progress
-      - What backpropagation is - in progress
+      - What exactly gradient descent is and how it works - in progress ⌛
+      - What exactly backpropagation is and how it works - in progress ⌛
       - What inference_mode does and how to use it
     - Create neural network
       - Loop, forward propagation, calculate loss, back propagation, optimize parameters
@@ -26,4 +26,4 @@ What I can do:
     - Create multi layer linear neural network (both custom model and using nn.Sequential)
       - I know what activation function is and how to use it
     - I can create binary classification model
-    - I can create multiclass classification model - in progress ⌛
+    - I can create multiclass classification model
