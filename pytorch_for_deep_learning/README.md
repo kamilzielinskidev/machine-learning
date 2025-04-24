@@ -27,3 +27,6 @@ What I can do:
       - I know what activation function is and how to use it
     - I can create binary classification model
     - I can create multiclass classification model
+  - I know what precision, recall, f1 score, accuracy is and when to use them - in progress ⌛
+    - I know basics of torchmetrics - in progress ⌛
+  - I know the concept of mini-batch and how to use it
