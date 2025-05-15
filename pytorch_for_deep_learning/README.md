@@ -30,5 +30,5 @@ What I can do:
     - Multiclass classification model
     - Convolutional neural network
   - I know what precision, recall, f1 score, accuracy is and when to use them - in progress ⌛
-    - I know basics of torchmetrics with confusion matrix - in progress ⌛
+    - I know basics of torchmetrics with confusion matrix
   - I know the concept of mini-batch and how to use it
